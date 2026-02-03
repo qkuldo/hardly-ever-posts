@@ -1,0 +1,1071 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"specialPickupVisible"
+			],
+			[
+				"CAM",
+				"CAMERA_ZOOMED_RECT"
+			],
+			[
+				"CA",
+				"CAMERA_ZOOMED_RECT"
+			],
+			[
+				"SC",
+				"SCREENWIDTH"
+			],
+			[
+				"S",
+				"SCREENWIDTH"
+			],
+			[
+				"C",
+				"CAMERALAYER"
+			],
+			[
+				"T",
+				"TRANSFORMLAYER_RECT"
+			],
+			[
+				"TR",
+				"TRANSFORMLAYER"
+			],
+			[
+				"Fo",
+				"FOCUSLAYER"
+			],
+			[
+				"Speci",
+				"specialPickupVisible"
+			],
+			[
+				"FO",
+				"FOCUSLAYER"
+			],
+			[
+				"BASE",
+				"BASEDIALOGCOLOR"
+			],
+			[
+				"Sc",
+				"SCREENHEIGHT"
+			],
+			[
+				"SP",
+				"SPECIALDIALOGCOLOR"
+			],
+			[
+				"DI",
+				"BASEDIALOGCOLOR"
+			],
+			[
+				"specia",
+				"specialPickupVisible"
+			],
+			[
+				"speci",
+				"specialItemRect"
+			],
+			[
+				"special",
+				"specialItem"
+			],
+			[
+				"mid",
+				"midbottom"
+			],
+			[
+				"specialI",
+				"specialItemRect"
+			],
+			[
+				"sta",
+				"START_FADEIN"
+			],
+			[
+				"ST",
+				"START_FADEIN"
+			],
+			[
+				"spe",
+				"specialPickupText"
+			],
+			[
+				"sp",
+				"specialPickupVisible"
+			],
+			[
+				"SPE",
+				"SPECIALPICKUPSTAY"
+			],
+			[
+				"spec",
+				"specialPickupVisible"
+			],
+			[
+				"ITEM",
+				"ITEMIDS"
+			],
+			[
+				"tes",
+				"textTestRect"
+			],
+			[
+				"text",
+				"textRect"
+			],
+			[
+				"te",
+				"textRect"
+			],
+			[
+				"co",
+				"convert_alpha"
+			],
+			[
+				"SF",
+				"SFX_name"
+			],
+			[
+				"ITE",
+				"ITEMSPECIAL"
+			],
+			[
+				"I",
+				"ITEMTILESIZE"
+			],
+			[
+				"i",
+				"inventory"
+			],
+			[
+				"item",
+				"ITEMIDS"
+			],
+			[
+				"draw",
+				"drawy"
+			],
+			[
+				"ite",
+				"itemAssets"
+			],
+			[
+				"it",
+				"itemAssets"
+			],
+			[
+				"TILE",
+				"TILELAYER"
+			],
+			[
+				"cu",
+				"currentRoomData"
+			],
+			[
+				"room",
+				"roomToLoad"
+			],
+			[
+				"tilec",
+				"tileCoordinate"
+			],
+			[
+				"find",
+				"findTilePixelLocation"
+			],
+			[
+				"load",
+				"loadImages"
+			],
+			[
+				"wall",
+				"wallLetters"
+			],
+			[
+				"convet",
+				"convert_alpha"
+			],
+			[
+				"colli",
+				"collideChecker"
+			],
+			[
+				"SCr",
+				"SCREENHEIGHT"
+			],
+			[
+				"coll",
+				"collideChecker"
+			],
+			[
+				"pla",
+				"playerScrollCoordinatesX"
+			],
+			[
+				"player",
+				"playerOffset"
+			],
+			[
+				"Sp",
+				"SPRITELAYER"
+			],
+			[
+				"play",
+				"playerPortrait"
+			],
+			[
+				"An",
+				"animate"
+			],
+			[
+				"cust",
+				"customAttributes"
+			],
+			[
+				"m",
+				"movement_line"
+			],
+			[
+				"mov",
+				"movement_line"
+			],
+			[
+				"curre",
+				"currentRoomData"
+			],
+			[
+				"cur",
+				"currentRoomData"
+			],
+			[
+				"tiles",
+				"tilesNearMe"
+			],
+			[
+				"current",
+				"currentRoomData"
+			],
+			[
+				"hit",
+				"hitboxLocation"
+			],
+			[
+				"c",
+				"customAttributes"
+			],
+			[
+				"clas",
+				"class\tNew Class"
+			],
+			[
+				"menu",
+				"menuPressTime"
+			],
+			[
+				"men",
+				"menuPressTimeDifference"
+			],
+			[
+				"me",
+				"menuPressTimeDifference"
+			],
+			[
+				"curr",
+				"currentRoomData"
+			],
+			[
+				"TIL",
+				"TILELAYER"
+			],
+			[
+				"RO",
+				"ROOMTILEDATA"
+			],
+			[
+				"TILELA",
+				"TILELAYER"
+			],
+			[
+				"HU",
+				"HUDLAYER"
+			],
+			[
+				"HUD",
+				"HUDMARGIN"
+			],
+			[
+				"roo",
+				"roomLayout"
+			],
+			[
+				"scale",
+				"scaleHeight"
+			],
+			[
+				"sca",
+				"scaleHeight"
+			],
+			[
+				"prop",
+				"proptileSpritesheets"
+			],
+			[
+				"wal",
+				"walltileSpritesheets"
+			],
+			[
+				"Roo",
+				"ROOMTILEDATA"
+			],
+			[
+				"tile",
+				"tileNames"
+			],
+			[
+				"ase",
+				"BASEIMGPATH"
+			],
+			[
+				"sc",
+				"SCREENWIDTH"
+			],
+			[
+				"BA",
+				"BASICHEIGHT"
+			],
+			[
+				"ENEMY",
+				"ENEMYTEMPLATE"
+			],
+			[
+				"B",
+				"BASICWIDTH"
+			],
+			[
+				"PLA",
+				"PLAYERBULLETHEIGHT"
+			],
+			[
+				"P",
+				"PLAYERBULLETWIDTH"
+			],
+			[
+				"enem",
+				"enemy_list"
+			],
+			[
+				"enemy",
+				"enemmy_list"
+			],
+			[
+				"rec",
+				"rect_width"
+			],
+			[
+				"ene",
+				"enemyTestSprite"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"de",
+				"deadCenter"
+			],
+			[
+				"move",
+				"movement_angle"
+			],
+			[
+				"osc",
+				"switchOscillateDir"
+			],
+			[
+				"e",
+				"enemyTestSprite"
+			],
+			[
+				"testE",
+				"enemyTestSprite"
+			],
+			[
+				"scr",
+				"scroll_speed"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"p",
+				"player_hp_rect"
+			],
+			[
+				"spee",
+				"speed_up_timer"
+			],
+			[
+				"star",
+				"stargroup"
+			],
+			[
+				"life",
+				"lifeloss"
+			],
+			[
+				"par",
+				"particlebehavior"
+			],
+			[
+				"Pa",
+				"ParticleGroup"
+			],
+			[
+				"Pari",
+				"ParticleGroup"
+			],
+			[
+				"sep",
+				"special_operation"
+			],
+			[
+				"K",
+				"K_LEFT"
+			],
+			[
+				"spr",
+				"spritesheet"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"line",
+				"linewidth"
+			],
+			[
+				"fps",
+				"fps_counter_surf"
+			],
+			[
+				"le",
+				"LEVELGAME"
+			],
+			[
+				"idl",
+				"idle_spreads"
+			],
+			[
+				"idle",
+				"idle_state"
+			],
+			[
+				"chang",
+				"knock_change"
+			],
+			[
+				"kn",
+				"knockback_angle"
+			],
+			[
+				"game",
+				"gameover"
+			],
+			[
+				"playe",
+				"PLAYERDIE"
+			],
+			[
+				"re",
+				"render_Ffloor"
+			],
+			[
+				"main",
+				"main_functions_list"
+			],
+			[
+				"retun",
+				"return_value"
+			],
+			[
+				"hi",
+				"highest_step_num"
+			],
+			[
+				"hea",
+				"heading_return"
+			],
+			[
+				"head",
+				"heading_return"
+			],
+			[
+				"h",
+				"heading_timer"
+			],
+			[
+				"hud",
+				"hud_draw"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 359,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"c",
+				"git: commit"
+			],
+			[
+				"status",
+				"git: status"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"check",
+				"git: checkout"
+			],
+			[
+				"statu",
+				"git: status"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"git",
+				"Set Syntax: Git Log"
+			],
+			[
+				"",
+				"Package Control: Advanced Enable Packages"
+			],
+			[
+				"g",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"git xommi",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"sta",
+				"git: status"
+			],
+			[
+				"st",
+				"git: status"
+			],
+			[
+				"s",
+				"Selection: Expand"
+			],
+			[
+				"co",
+				"git: commit"
+			],
+			[
+				"com",
+				"git: commit"
+			],
+			[
+				"stats",
+				"git: status"
+			],
+			[
+				"gits",
+				"git: status"
+			],
+			[
+				"gitst",
+				"git: status"
+			],
+			[
+				"commi",
+				"git: commit"
+			],
+			[
+				"git s",
+				"git: status"
+			],
+			[
+				"gitignore",
+				"git: ignore pattern"
+			],
+			[
+				"git sta",
+				"git: status"
+			],
+			[
+				"gitsavv",
+				"GitSavvy: help"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 214.4,
+		"history":
+		[
+			"s",
+			"print (\"hi\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Dell/Downloads/Games/Other/hardly-ever-posts"
+	],
+	"file_history":
+	[
+		"/C/Users/Dell/Downloads/Games/walled garden/modules/__init__.py",
+		"/C/Users/Dell/Downloads/Games/walled garden/modules/spritesheet.py",
+		"/C/Users/Dell/Downloads/Games/walled garden/modules/sprite.py",
+		"/C/Users/Dell/Downloads/Games/walled garden/rooms.json",
+		"/C/Users/Dell/Downloads/Games/walled garden/game.py",
+		"/C/Users/Dell/Downloads/Games/walled garden/modules/glow.py",
+		"/C/Users/Dell/Downloads/Games/walled garden/levels.json",
+		"/C/Users/Dell/Downloads/Games/lander/modules/sprite.py",
+		"/C/Users/Dell/Downloads/Games/lander/game.py",
+		"/C/Users/Dell/Downloads/Games/bitsy/palace-of-places/index.html",
+		"/C/Users/Dell/Downloads/Games/bitsy/palace_of_places.html",
+		"/C/Users/Dell/Downloads/Games/bitsy/bitsy-main/bitsy-main/CREDITS.md",
+		"/C/Users/Dell/Downloads/Games/bitsy/bitsy-main/bitsy-main/docs/docs/index.md",
+		"/C/Users/Dell/Downloads/Games/bitsy/bitsy-main/bitsy-main/docs/docs/glossary.md",
+		"/C/Users/Dell/Downloads/Games/bitsy/bitsy-main/bitsy-main/README.md",
+		"/C/Users/Dell/Downloads/Games/bitsy/turn_based_battle_test.html",
+		"/C/Users/Dell/Downloads/Games/bitsy/____the_book_of_powerful_spells_.html",
+		"/C/Users/Dell/Downloads/webviewssnumslip.html",
+		"/C/Users/Dell/Downloads/domino__a_tool_for_collaging_thoughts.html",
+		"/C/Users/Dell/Downloads/Games/PYRun.py",
+		"/C/Users/Dell/Downloads/Games/PYDebugger.py",
+		"/C/Users/Dell/Downloads/Games/a_nice_place_to_be_in.html",
+		"/C/Users/Dell/Downloads/Games/help stuff/lance website reengineered/index.html",
+		"/C/Users/Dell/Downloads/Games/Other/spritestack_tutorial/main.py",
+		"/C/Users/Dell/Downloads/Games/Other/comments.md",
+		"/C/Users/Dell/Downloads/Games/command-line-adventure/main.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Dependencies/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Dependencies/Weapons.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Dependencies/Rooms.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Dependencies/game.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/main.py",
+		"/C/Users/Dell/Downloads/Games/Xion/main.py",
+		"/C/Users/Dell/Downloads/Games/game-feel-test/main.py",
+		"/C/Users/Dell/AppData/Roaming/.minecraft/runtime/java-runtime-delta/windows/java-runtime-delta/lib/jvm.cfg",
+		"/C/Users/Dell/AppData/Roaming/.minecraft/runtime/java-runtime-delta/windows/java-runtime-delta/lib/jvm.lib",
+		"/C/Users/Dell/AppData/Roaming/.minecraft/runtime/java-runtime-delta/windows/java-runtime-delta/bin/server/jvm.dll",
+		"/C/Users/Dell/Downloads/Music/battle against a lil guy.html",
+		"/C/Users/Dell/Downloads/Games/lander/assets/images/ASE FILES/HYPERSHIP.ase",
+		"/C/Users/Dell/Downloads/Music/bardic-journey/bardic-journey-2025-remaster.html",
+		"/C/Users/Dell/Downloads/Games/m1-t2/m1-t2/script.js",
+		"/C/Users/Dell/Downloads/Music/bardic-journey/bardic-journey.html",
+		"/C/Users/Dell/Downloads/Games/lander/modules/spritesheet.py",
+		"/C/Users/Dell/Downloads/Games/lander/.gitignore",
+		"/C/Users/Dell/Downloads/Games/lander/modules/particles.py",
+		"/C/Users/Dell/AppData/Roaming/.minecraft/versions/fabric-loader-0.17.3-1.21.10/fabric-loader-0.17.3-1.21.10.json",
+		"/C/Users/Dell/AppData/Roaming/.minecraft/versions/iris-fabric-loader-0.17.3-1.21.10/TLauncherAdditional.json",
+		"/C/Users/Dell/Downloads/Games/lander/modules/__init__.py",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text/Packages/User/GitSavvy/GitSavvy.log_graph_view.color_scheme.hidden-color-scheme",
+		"/C/Users/Dell/Downloads/Games/bumpgun/assets/reference.json",
+		"/C/Users/Dell/Downloads/Games/bumpgun/game.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/main.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/sprite.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/CHANGELOG.md",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/hud_elements.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/particle.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/spritesheet.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/.github/workflows/pylint.yml",
+		"/C/Users/Dell/Downloads/Games/bumpgun/README.md",
+		"/C/Users/Dell/Downloads/Games/bumpgun/.github/pull_request_template.md",
+		"/C/Users/Dell/Downloads/Games/bumpgun/CONTRIBUTING.md",
+		"/C/Users/Dell/Downloads/Games/bumpgun/.github/CODEOWNERS.txt",
+		"/C/Users/Dell/Downloads/Games/bumpgun/LICENSE.md",
+		"/C/Users/Dell/Downloads/Games/bumpgun/fonts/dialogue.json",
+		"/C/Users/Dell/Downloads/Games/bumpgun/.gitignore",
+		"/C/Users/Dell/Downloads/Games/bumpgun/bumpgun.sublime-workspace",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/groups.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/__init__.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/bumpgun.sublime-project",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/base.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/enemy.py",
+		"/C/Users/Dell/Downloads/Games/spritestack_tutorial/spritestack.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/handlers.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/test.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/pointer.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/assets/images/player.png",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/main.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/game.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/glow.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/room.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/saves/data.json",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/enemy.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/a guide to the echo of angels.txt",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/particle.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/__init__.py",
+		"/C/Users/Dell/Downloads/Games/space_shooter/main.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/hit_effect.py",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/my_website_color.css",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/My Website.html",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/newspage.html",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/gallery.html",
+		"/C/Users/Dell/Downloads/Games/Xion/Other/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/enemy.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/entity.py",
+		"/C/Users/Dell/Downloads/Games/Xion/README.md",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/particle_effects.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/particle_sys.py",
+		"/C/Users/Dell/Downloads/Games/Xion/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/bullet.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/animation/animation_effects.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/animation/animation.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/animation/__init__.py",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dell/Downloads/Games/Xion/Other/Bugs.txt",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/hitbox.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/particle.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/non_player_subclasses/bullet.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/hitbox.py",
+		"/C/Users/Dell/Downloads/Untitled Document.md",
+		"/C/Users/Dell/Downloads/Games/Xion/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Xion/Bugs.txt",
+		"/C/Users/Dell/Downloads/Games/moving_guy/main.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Weapons.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Other/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Armor.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Rooms.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Character.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/README.md",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Items.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Other/BUGS.txt",
+		"/C/Users/Dell/Downloads/Games/Terrainer/Terrainer.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/BUGS.txt",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Dark Dungeon Documentation.md"
+	],
+	"find":
+	{
+		"height": 26.4
+	},
+	"find_in_files":
+	{
+		"height": 135.600006104,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.4
+	},
+	"input":
+	{
+		"height": 119.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 144.399993896,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 138.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.show_commit_info":
+	{
+		"height": 144.399993896,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "hardly-ever-posts.sublime-project",
+	"replace":
+	{
+		"height": 49.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sp",
+				"modules\\sprite.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 499.8,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Dell\\Downloads\\Games\\the echo of the angels\\the_echo_of_the_angels.sublime-project"
+			],
+			[
+				"phas",
+				"C:\\phaser\\phaser.sublime-project"
+			],
+			[
+				"my",
+				"C:\\Users\\Dell\\OneDrive\\Desktop\\My Website\\My_Website.sublime-project"
+			]
+		],
+		"width": 379.6
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
