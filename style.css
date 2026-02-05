@@ -7,6 +7,7 @@ body {
     color: #e8dada;
     padding: 0 10px;
     font-family: monospace; 
+    text-align: center;
 }
 div.main {
 	background-color: #c7b302;
@@ -25,7 +26,4 @@ h2 {
 }
 i {
     font-size: 15px;
-}
-div.centered {
-    text-align: center;
 }
