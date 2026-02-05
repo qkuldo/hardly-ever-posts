@@ -26,3 +26,6 @@ h2 {
 i {
     font-size: 15px;
 }
+div.centered {
+    text-align: center;
+}
