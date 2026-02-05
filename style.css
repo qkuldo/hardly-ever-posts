@@ -1,0 +1,29 @@
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    background-color: #070581;
+    color: #e8dada;
+    padding: 0 10px;
+    font-family: monospace; 
+    text-align: center;
+}
+div.main {
+	background-color: #c7b302;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a {
+    color: #56e8b7;
+}
+h1 {
+    color: #f2dada;
+}
+h2 {
+    color: #f2dada;
+}
+i {
+    font-size: 15px;
+}
