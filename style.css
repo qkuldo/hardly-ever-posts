@@ -19,6 +19,9 @@ div.main {
 a {
     color: #56e8b7;
 }
+div.imageNudge {
+    transform: translate(-15px);
+}
 h1 {
     color: #f2dada;
 }
